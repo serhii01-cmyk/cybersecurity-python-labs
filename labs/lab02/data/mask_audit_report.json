@@ -1,0 +1,33 @@
+{
+    "total_passwords": 44,
+    "weak_passwords": 10,
+    "weak_percentage": 22.7,
+    "avg_length": 10.0,
+    "top_masks": [
+        {
+            "mask": "Complex (Upper-Lower-Digit-Special)",
+            "count": 16,
+            "percentage": 36.4
+        },
+        {
+            "mask": "All-Lowercase (LLLL)",
+            "count": 10,
+            "percentage": 22.7
+        },
+        {
+            "mask": "Other/Mixed",
+            "count": 7,
+            "percentage": 15.9
+        },
+        {
+            "mask": "Lowercase-Digit (LdLd)",
+            "count": 6,
+            "percentage": 13.6
+        },
+        {
+            "mask": "All-Digits (dddd)",
+            "count": 3,
+            "percentage": 6.8
+        }
+    ]
+}
